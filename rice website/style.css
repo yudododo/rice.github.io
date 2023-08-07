@@ -1,9 +1,40 @@
-body{
-    font-family: -apple-system,"BlinkMacSystemFont",
-    /* // Windows */
-    "Segoe UI",
-    /* // Basic web fallback */
-    "Helvetica Neue", Arial, sans-serif,
-    /* // Emoji fonts */
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
+.navbar-brand{
+    color:white
+  }
+  
+  .navbar-brand:hover{
+    color:white
+  }
+  .nav-link {
+    color :#f0e4e1
+  }
+  
+  .nav-link:hover{
+    color: #786f6d
+  }
+  
+  body{
+    font-family: "Microsoft JhengHe", sans-serif;
+    font-family: 'Sniglet', cursive;
+  }
+  
+  
+  img{
+    max-width: 100%;
+  }
+  
+  .card-img{
+    background-image: url('img/cs.png');
+    max-width: 100%;
+    height: calc(100vh);
+    background-position: center ;
+    background-size: cover;
+  }
+  
+  .card-img2{
+    background-image: url('img/res2.jpg');
+    max-width: 100%;
+    height: calc(100vh);
+    background-position: center ;
+    background-size: cover;
+  }
