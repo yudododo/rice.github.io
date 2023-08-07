@@ -12083,3 +12083,24 @@ body{
 }
 
 
+img{
+  max-width: 100%;
+}
+
+.card-img{
+  background-image: url('img/cs.png');
+  max-width: 100%;
+  height: calc(100vh);
+  background-position: center ;
+  background-size: cover;
+}
+
+.card-img2{
+  background-image: url('img/res2.jpg');
+  max-width: 100%;
+  height: calc(100vh);
+  background-position: center ;
+  background-size: cover;
+}
+
+
