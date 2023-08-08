@@ -10,7 +10,7 @@ var barChart = new Chart(barCtx, {
         labels: ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'],
         datasets: [{
             label: 'Emotion',
-            data: [12, 19, 3, 5, 2],
+            data: [12, 19, 3, 5, 2, 4, 14, 43, 3, 12, 32, 42],
             backgroundColor: 'rgba(75, 192, 192, 0.2)',
             borderColor: 'rgba(75, 192, 192, 1)',
             borderWidth: 1
@@ -32,9 +32,10 @@ var lineChart = new Chart(lineCtx, {
         labels: ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'],
         datasets: [{
             label: 'Whether',
-            data: [12, 19, 3, 5, 2],
+            data: [12, 19, 3, 5, 2, 4, 14, 43, 3, 12, 32, 42],
+            backgroundColor: 'rgba(75, 192, 192, 0.2)',
             borderColor: 'rgba(75, 192, 192, 1)',
-            borderWidth: 2,
+            borderWidth: 1,
             fill: false
         }]
     },
