@@ -37,7 +37,7 @@ img{
 .card-img2{
   background-image: url('img/res2.jpg');
   max-width: 100%;
-  height: calc(100vh);
+  height: calc(80vh);
   background-position: center ;
   background-size: cover;
 }
@@ -68,6 +68,21 @@ img{
 .text-brown2{ 
   color: #937967
 }
+
+.text-green{ 
+  color: #62c88c
+}
+
+.card-img4{
+  background-image: url('img/about4.png');
+  max-width: 100%;
+  height: calc(100vh);
+  background-position: center ;
+  background-size: cover;
+}
+
+
+
 
 
 
