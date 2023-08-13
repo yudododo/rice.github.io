@@ -1,0 +1,81 @@
+.navbar-brand{
+    color:white
+  }
+  
+.navbar-brand:hover{
+    color:white
+}
+
+.nav-link {
+  color :#f0e4e1
+}
+  
+.nav-link:hover{
+  color: #786f6d
+}
+  
+body{
+  font-family: "Microsoft JhengHe", sans-serif;
+  /* font-family: 'Sniglet', cursive; */
+ 
+  font-family: 'Mukta Malar', sans-serif;
+}
+  
+  
+img{
+  max-width: 100%;
+}
+  
+.card-img{
+  background-image: url('img/cs.png');
+  max-width: 100%;
+  height: calc(100vh);
+  background-position: center ;
+  background-size: cover;
+}
+  
+.card-img2{
+  background-image: url('img/res2.jpg');
+  max-width: 100%;
+  height: calc(80vh);
+  background-position: center ;
+  background-size: cover;
+}
+
+
+.customer-service {
+  text-align: right;
+  padding: 20px 0;
+}
+
+.text-brown{ 
+  color: #796150
+}
+
+.text-brown2{ 
+  color: #937967
+}
+
+.text-green{ 
+  color: #62c88c
+}
+
+.card-img4{
+  background-image: url('img/about4.png');
+  max-width: 100%;
+  height: calc(100vh);
+  background-position: center ;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
